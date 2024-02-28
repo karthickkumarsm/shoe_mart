@@ -1,6 +1,6 @@
 
 # Project Title
-Shoe Mart-An shopping app for Shoes
+ShoeMart-An shopping app for Shoes
 
 
 ## Project Description
